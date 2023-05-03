@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Alex",
+      "description": "Alex tiks ielikts 3.kategorijā",
+      "category": "Category 3"
+    },
+    {
+      "id": 2,
+      "title": "Mikus 123 123 123 ",
+      "description": "Toms1 123 123 123",
+      "category": "Category 2"
+    },
+    {
+      "title": "Matīss",
+      "description": "Arī tiks ielikts 3.kateogrijā",
+      "category": "Category 3",
+      "id": 3
+    },
+    {
+      "title": "Antons",
+      "description": "just Antons",
+      "category": "Category 2",
+      "id": 4
+    }
+  ]
+}
